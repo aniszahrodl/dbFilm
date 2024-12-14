@@ -62,7 +62,7 @@
     "rilis": "2014",
     "director": "Wregas Bhanuteja",
     "production": "FFTV Institut Kesenian Jakarta",
-    "src": "ps://www.youtube.com/embed/AfchZ4kfFMc?si=R8UCVWhepulQfOL6"
+    "src": "https://www.youtube.com/embed/AfchZ4kfFMc?si=R8UCVWhepulQfOL6"
   },
   {
     "id": 6,
@@ -79,16 +79,16 @@
   },
   {
     "id": 7,
-    "title": "Tenang",
-    "img": "tenang.jpg",
-    "genre": "Drama",
-    "durasi": "7:36",
-    "sinopsis": "Film ini berpusar tentang menghadapi kehilangan, hal-hal yang mungkin tidak akan pernah bisa kembali lagi, dan menerima sekecil apapun yang ada.",
-    "actors": "Ringgo Agus, Nirina Zubir, Kiki Narendra, Gamaliel Eleazar dan Zozo",
-    "rilis": "2021",
-    "director": "Yandy Laurens",
-    "production": "Cerita Films",
-    "src": "https://www.youtube.com/embed/BAS8cCdsdpU?si=nm0mFzIfMopQPYzU"
+    "title": "Love is Not Enough",
+    "img": "loveisnotenough.jpg",
+    "genre": "Drama Romantis",
+    "durasi": "37:37",
+    "sinopsis": "Arunika (25) meninggalkan Jakarta karena sudah lelah dengan semua yang dihadapinya, hidup dan cinta yang tidak berjalan sebagaimana mestinya. Tidak percaya lagi pada banyak hal. Bali menjadi tempat yang dipilihnya untuk ia tuju mencoba mencari tempat di mana ia bisa menemukan dirinya lagi. Hingga suatu hari ia bertemu dengan Sanje (25), seorang pelukis sederhana yang membuat Arunika mulai membuka diri pada orang lain. Hari-hari yang mereka lalui bersama ternyata membuat mereka nyaman. Arunika menemukan banyak hal dalam kisahnya kali ini. Kisah apa yang akan terjadi pada Arunika dan Sanje selanjutnya? ",
+    "actors": "Givina, Antonio M. Blanco Jr",
+    "rilis": "2023",
+    "director": "Rangga Azof ",
+    "production": "Garasinema",
+    "src": "https://www.youtube.com/embed/uW7LiR1H3wA?si=X6QkyTA4JqGu8qSp"
   },
   {
     "id": 8,
